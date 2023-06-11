@@ -1,0 +1,11 @@
+{
+  "n_nodes": 3,
+  "start": 1,
+  "edges": [
+    {
+      "v1": 1,
+      "v2": 3,
+      "color": "blue"
+    }
+  ]
+}
